@@ -1,0 +1,5 @@
+Faktori koji najvise uticu na performance kolonu ('Price') su:
+
+1. kvadratna stopa nekretnine,
+2. broj soba,
+3. lokacija nekretnine
